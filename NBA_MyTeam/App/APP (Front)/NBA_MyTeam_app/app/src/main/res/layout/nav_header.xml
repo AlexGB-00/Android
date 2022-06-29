@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/light_purple"
+    android:fitsSystemWindows="true">
+
+    <ImageView
+        android:id="@+id/img_user"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/logo_app"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"></ImageView>
+
+    <TextView
+        android:id="@+id/tev_nick_nav"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="18dp"
+        android:textSize="@dimen/nick_usu"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/img_user"
+        app:layout_constraintTop_toTopOf="@+id/img_user"></TextView>
+
+    <TextView
+        android:id="@+id/tev_email_nav"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:textSize="@dimen/smaller_text"
+        android:layout_marginBottom="15dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/img_user"
+        app:layout_constraintTop_toBottomOf="@+id/img_user"
+        app:layout_constraintWidth_max="250dp"></TextView>
+
+    <!--
+    <ImageButton
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:background="@drawable/edit"
+        app:layout_constraintStart_toStartOf="@+id/tev_nick_nav"
+        app:layout_constraintTop_toBottomOf="@+id/tev_nick_nav"></ImageButton>
+    -->
+
+</androidx.constraintlayout.widget.ConstraintLayout>

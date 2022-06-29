@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_alineaciones"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.AlineacionesFragment">
+
+    <RelativeLayout
+        android:id="@+id/rel_datos_alineaciones"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:padding="15dp"
+        android:visibility="gone">
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/tev_nombre_alineaciones"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/nombre_dato_alin"
+            android:textStyle="bold"
+            android:textSize="@dimen/larger_text">
+        </com.google.android.material.textview.MaterialTextView>
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="@string/propietario_dato_alin"
+            android:textSize="@dimen/larger_text"
+            android:textStyle="bold">
+        </com.google.android.material.textview.MaterialTextView>
+    </RelativeLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rev_alineaciones"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/rel_datos_alineaciones"/>
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/tev_empty_alineaciones"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:visibility="gone"
+        android:layout_centerInParent="true"
+        android:text="@string/msg_empty_alineaciones"
+        android:textSize="16dp"
+        android:padding="20dp"/>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/add" />
+
+</RelativeLayout>

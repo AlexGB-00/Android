@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_gray">#E8E5CE</color>
+    <color name="medium_white">#66F3F0EB</color>
+    <color name="light_yellow">#4DFEFA9F</color>
+    <color name="orange">#FFBD49</color>
+    <color name="purple">#6909A7</color>
+    <color name="light_gold">#FFFCAF</color>
+    <color name="light_brown">#EBDFB1</color>
+    <color name="light_purple">#DEC4F6</color>
+    <color name="white_purple">#4DDEC4F6</color>
+    <color name="dark_gray">#535054</color>
+    <color name="medium_purple">#596909A7</color>
+    <color name="medium_gray">#26535054</color>
+    <color name="red">#FF4E4E</color>
+    <color name="transparent">#00000000</color>
+    <color name="bronze">#E9BE63</color>
+    <color name="light_bronze">#80FFF3A7</color>
+    <color name="silver">#DDD1B8</color>
+    <color name="gold">#FFE854</color>
+    <color name="wood">#F2FFFACD</color>
+    <color name="light_white">#F9D28B</color>
+    <color name="card">#F2F5D084</color>
+    <color name="dark_white">#A6FFFFFF</color>
+</resources>

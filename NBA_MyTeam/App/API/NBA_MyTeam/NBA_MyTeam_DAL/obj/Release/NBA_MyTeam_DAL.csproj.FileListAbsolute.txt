@@ -1,0 +1,9 @@
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_DAL\bin\Release\NBA_MyTeam_DAL.dll
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_DAL\bin\Release\NBA_MyTeam_DAL.pdb
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_DAL\bin\Release\NBA_MyTeam_Entities.dll
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_DAL\bin\Release\NBA_MyTeam_Entities.pdb
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_DAL\obj\Release\NBA_MyTeam_DAL.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_DAL\obj\Release\NBA_MyTeam_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_DAL\obj\Release\NBA_MyTeam_DAL.csproj.CopyComplete
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_DAL\obj\Release\NBA_MyTeam_DAL.dll
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_DAL\obj\Release\NBA_MyTeam_DAL.pdb

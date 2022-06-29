@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/user_group"
+        android:title="@string/user_title_nav" >
+        <menu>
+            <item
+                android:id="@+id/nav_log_out"
+                android:icon="@drawable/log_out"
+                android:title="@string/log_out" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/info_group"
+        android:title="@string/help_title_nav">
+        <menu>
+            <item
+                android:id="@+id/nav_info"
+                android:icon="@drawable/info"
+                android:title="@string/info" />
+        </menu>
+    </item>
+
+</menu>

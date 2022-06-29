@@ -1,0 +1,11 @@
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_BL\bin\Debug\NBA_MyTeam_BL.dll
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_BL\bin\Debug\NBA_MyTeam_BL.pdb
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_BL\bin\Debug\NBA_MyTeam_DAL.dll
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_BL\bin\Debug\NBA_MyTeam_Entities.dll
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_BL\bin\Debug\NBA_MyTeam_DAL.pdb
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_BL\bin\Debug\NBA_MyTeam_Entities.pdb
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_BL\obj\Debug\NBA_MyTeam_BL.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_BL\obj\Debug\NBA_MyTeam_BL.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_BL\obj\Debug\NBA_MyTeam_BL.csproj.CopyComplete
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_BL\obj\Debug\NBA_MyTeam_BL.dll
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_BL\obj\Debug\NBA_MyTeam_BL.pdb

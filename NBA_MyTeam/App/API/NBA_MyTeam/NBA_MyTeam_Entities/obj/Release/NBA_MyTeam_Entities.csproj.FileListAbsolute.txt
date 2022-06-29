@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_Entities\bin\Release\NBA_MyTeam_Entities.dll
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_Entities\bin\Release\NBA_MyTeam_Entities.pdb
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_Entities\obj\Release\NBA_MyTeam_Entities.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_Entities\obj\Release\NBA_MyTeam_Entities.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_Entities\obj\Release\NBA_MyTeam_Entities.dll
+C:\Users\Alex\Desktop\2 DAM\GitHub DAM\TFG\API\NBA_MyTeam\NBA_MyTeam_Entities\obj\Release\NBA_MyTeam_Entities.pdb

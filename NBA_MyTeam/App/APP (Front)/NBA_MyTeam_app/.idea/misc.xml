@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/drawable-anydpi/user.xml" value="0.2109375" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/drawable/gold_card.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/drawable/splash.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/activity_alineacion.xml" value="0.1" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/activity_config.xml" value="0.1" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/activity_home.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/activity_perfil.xml" value="0.13949275362318841" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/activity_registro.xml" value="0.21368421052631578" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/dialog_alineacion.xml" value="0.176" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/dialog_sobre.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/dialog_timer.xml" value="0.2" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/fragment_alineaciones.xml" value="0.2" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/fragment_club.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/fragment_detalle_alineacion.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/fragment_detalle_jugador.xml" value="0.10486322188449848" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/fragment_form_log_in.xml" value="0.2" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/fragment_help.xml" value="0.2" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/fragment_menu_log.xml" value="0.2" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/fragment_portada.xml" value="0.2" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/fragment_registro.xml" value="0.2" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/fragment_share_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/fragment_sobres.xml" value="0.2" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/nav_header.xml" value="0.264" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/recycler_alineaciones_item.xml" value="0.10486322188449848" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/recycler_club_item.xml" value="0.18885869565217392" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/recycler_dialog_elegir_jugador_item.xml" value="0.264" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/layout/share_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/Alex/Desktop/2 DAM/GitHub DAM/TFG/APP/NBA_MyTeam_app/app/src/main/res/menu/navigation_view.xml" value="0.19025641025641027" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
