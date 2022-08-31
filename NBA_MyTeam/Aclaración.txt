@@ -1,0 +1,2 @@
+En el apartado de la API, concretamente dentro de la capa DAL, falta una carpeta la cual incluye un archivo que permite establecer la conexión con la base de datos.
+Por ciertas cuestiones, no está incluida en el repositorio.
