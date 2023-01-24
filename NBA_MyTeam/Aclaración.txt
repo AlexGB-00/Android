@@ -1,5 +1,6 @@
 
 1. Actualmente la aplicación no funciona correctamente, ya que el servidor donde se alberga no se encuentra operativo. Esto es debido a la expiración de la suscripción de dicha plataforma.
+A pesar de ello, se encuentra disponible el código de toda la aplicación además de una documentación detallada, donde se incluyen pantallazos que muestran las interfaces de la app.
 
 2. En el apartado de la API, concretamente dentro de la capa DAL, falta una carpeta la cual incluye un archivo que permite establecer la conexión con la base de datos.
 Por ciertas cuestiones, no está incluida en el repositorio.
